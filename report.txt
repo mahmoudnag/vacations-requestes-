@@ -1,0 +1,28 @@
+mahmoud mohamed nagah
+01118642891
+=================
+users
+==========
+manager :seeded data ===>username=manager  password=103  Role=" see all vaction ,add new vacation"
+employe  :can register and login  Role="add new vacation"
+technology used--
+
+asp .net mvc core
+javascript
+ajax
+jquery
+sql server
+html5
+css
+=========================
+tools  used:
+-----
+partial view
+tag helper
+javascript validation
+sever validtion
+client validation
+custom-validtion
+=======================
+
+
